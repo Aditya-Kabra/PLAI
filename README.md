@@ -18,3 +18,5 @@ Play and Learn AI
 - Aditya - 5 Day streak
 - Ameya - 7 Day streak
 - Hardeep - 9 Day streak
+
+**Want to suggest a task** Write email to Aditya Kabra at adityakabra47@gmail.com
