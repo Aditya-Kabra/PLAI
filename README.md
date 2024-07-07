@@ -11,8 +11,8 @@ Play and Learn AI
 [Fill this google form to subscribe to future tasks](https://forms.gle/wnSqKr2Fsqkm3q337)
 
 **Past Tasks** 
-- 
-- 
+- Create a image of half penguin and half dinosaur using Dall E or Stable Diffusion
+- Identify 5 good stocks to invest in based on news using chatgpt and websearch
 
 **Leaderboard**
 - Aditya - 5 Day streak
