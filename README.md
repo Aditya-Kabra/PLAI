@@ -1,5 +1,4 @@
-# PLAI
-Play and Learn AI
+# PLAI - Play and Learn AI
 
 **How does it work?**
 - Every day, a task will appear here, which you need to complete and share it on twitter (X) by tagging @adityakabra.
