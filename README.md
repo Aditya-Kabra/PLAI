@@ -13,7 +13,7 @@
 
 **Subscribe to the daily AI challenge** - [Fill this google form and get an AI challenge delivered in the email first thing every morning](https://forms.gle/wnSqKr2Fsqkm3q337)
 
-**Want to suggest a task** Write email to Aditya Kabra at adityakabra47@gmail.com
+**Want to suggest a task or have a feedback or suggestion** - write email to Aditya Kabra at adityakabra47@gmail.com (Let's make it better together!)
 
 **Leaderboard**
 - Aditya - 5 Day streak
