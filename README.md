@@ -11,7 +11,7 @@
 - Create a image of half penguin and half dinosaur using Dall E or Stable Diffusion
 - Identify 5 good stocks to invest in based on news using chatgpt and websearch
 
-Subscribe to the daily AI challenge - [Fill this google form to subscribe to daily tasks and get the challenge delivered in the email first thing every morning](https://forms.gle/wnSqKr2Fsqkm3q337)
+**Subscribe to the daily AI challenge** - [Fill this google form and get an AI challenge delivered in the email first thing every morning](https://forms.gle/wnSqKr2Fsqkm3q337)
 
 **Want to suggest a task** Write email to Aditya Kabra at adityakabra47@gmail.com
 
