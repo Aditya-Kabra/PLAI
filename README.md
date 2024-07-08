@@ -19,9 +19,6 @@
 **Want to suggest a task or have a feedback or suggestion** - write email to Aditya Kabra at adityakabra47@gmail.com (Let's make it better together!)
 
 **Leaderboard**
-- Aditya - 5 Day streak
-- Ameya - 7 Day streak
-- Hardeep - 9 Day streak
-
-**Plan to 10X this platform** 
-- Ethan Mollick, Pliny the Prompter, Andrej Karpathy and Sam Altman are going to share a challenge here some day.
+- Aditya - 1 Day streak
+- Ameya - 1 Day streak
+- Hardeep - 1 Day streak
