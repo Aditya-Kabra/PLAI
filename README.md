@@ -23,5 +23,5 @@
 - Ameya - 7 Day streak
 - Hardeep - 9 Day streak
 
-**Future Plan to 10X this platform** 
-- Going to ask Ethan Mollick, Pliny the Prompter, Andrej Karpathy and even Sam Altman to share a challenge one day.
+**Plan to 10X this platform** 
+- Ethan Mollick, Pliny the Prompter, Andrej Karpathy and Sam Altman are going to share a challenge here some day.
