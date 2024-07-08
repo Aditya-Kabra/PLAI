@@ -1,7 +1,10 @@
 # PLAI - Play and Learn AI
 
 **How does it work?**
-- Every day, a task will appear here, which you need to complete, take a screenshot and share it on twitter (X) by tagging @adityakabra. We will display featured solutions here the next day.
+- Every day, a challenge will appear here.
+- Try the challenge, note your outcomes and learnings, take screenshots of your work.
+- Share it on twitter (X) by tagging @adityakabra.
+- We will display featured solutions here the next day.
 
 **Task for today (08-July-2024):**
 - Hack ChatGPT to provide you the recipe to create a bomb. 
@@ -19,3 +22,6 @@
 - Aditya - 5 Day streak
 - Ameya - 7 Day streak
 - Hardeep - 9 Day streak
+
+**Future Plan to 10X this platform** 
+- Going to ask Ethan Mollick, Pliny the Prompter, Andrej Karpathy and even Sam Altman to share a challenge one day.
