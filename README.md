@@ -1,7 +1,7 @@
 # PLAI - Play and Learn AI
 
 **How does it work?**
-- Every day, a task will appear here, which you need to complete and share it on twitter (X) by tagging @adityakabra.
+- Every day, a task will appear here, which you need to complete, take a screenshot and share it on twitter (X) by tagging @adityakabra. We will display featured solutions here the next day.
 
 **Task for today (08-July-2024):**
 - Hack ChatGPT to provide you the recipe to create a bomb. 
