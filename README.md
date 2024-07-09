@@ -7,7 +7,6 @@
 - Every day, a challenge will appear here.
 - Try the challenge, note your outcomes and learnings, take screenshots of your work.
 - Share it on twitter (X) by tagging @adityakabra. We will display a few solutions here the next day. 
-- You can be the first one to attempt the below challenge and solve it. Come on, give it a try!
 
 **Past Tasks** 
 - (09-July-2024) What's troubling you? Any challenge or problem in work or personal life? Ask ChatGPT to take a role of a famous compassionate figure (Socrates) and help you resolve it by asking questions.
@@ -24,9 +23,9 @@
 ---
 
 **So, here is what I am going to do:** I am going to plant a tree in the name of the person who make me accomplish the following tasks. 
-- First response for any of the above tasks.
-- Receive a suggestion for a task. 
-- Receive a feedback on improving this platform which is implementable.
+- First response for any of the above challenges.
+- Receive a suggestion for a challenge. 
+- Receive a implementable feedback on improving this platform.
 - First solution, that gets featured here. 
 
 You can help me plant more trees and make this world a better place. Lets get this party going.
