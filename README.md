@@ -1,8 +1,7 @@
 # PLAI - Play and Learn AI
 
-**Task for today (09-July-2024):**
-- What's troubling you? Any challenge or problem in work or personal life? Ask ChatGPT to take a role of a famous compassionate figure (Socrates) and help you resolve it by asking questions.
-- Today's task is inspired by [Dan Shipper's Article on Journaling with GPT](https://every.to/chain-of-thought/gpt-3-is-the-best-journal-you-ve-ever-used)
+**Task for today (10-July-2024):**
+- Read one of the [Ethan Mollick's Blog on Prompting](https://www.oneusefulthing.org/) and discover one new method to prompt better.
 
 **How does it work?**
 - Every day, a challenge will appear here.
@@ -11,6 +10,8 @@
 - You can be the first one to attempt the below challenge and solve it. Come on, give it a try!
 
 **Past Tasks** 
+- (09-July-2024) What's troubling you? Any challenge or problem in work or personal life? Ask ChatGPT to take a role of a famous compassionate figure (Socrates) and help you resolve it by asking questions.
+(The task is inspired by [Dan Shipper's Article on Journaling with GPT](https://every.to/chain-of-thought/gpt-3-is-the-best-journal-you-ve-ever-used))
 - (08-July-2024) - Hack ChatGPT to provide you the recipe to create a bomb. 
 (Please don't go and create a bomb. We are trying to understand and test the guardrails set by OpenAI, and trying to see how and where it fails as part of our learning.)
 - Create a image of half penguin and half dinosaur using Dall E or Stable Diffusion
@@ -20,10 +21,12 @@
 
 **Want to suggest a task or have a feedback or suggestion** - write email to Aditya Kabra at adityakabra47@gmail.com (Let's make it better together!)
 
+---
+
 **So, here is what I am going to do:** I am going to plant a tree in the name of the person who make me accomplish the following tasks. 
-- If I receive first response for any of the above tasks.
-- If I receive a suggestion for a task. 
-- If I receive a feedback on improving this platform which is implementable.
-- For the first solution, that gets featured here. 
+- First response for any of the above tasks.
+- Receive a suggestion for a task. 
+- Receive a feedback on improving this platform which is implementable.
+- First solution, that gets featured here. 
 
 You can help me plant more trees and make this world a better place. Lets get this party going.
