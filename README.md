@@ -23,9 +23,20 @@
 ---
 
 **So, here is what I am going to do:** I am going to plant a tree in the name of the person who make me accomplish the following tasks. 
+- Receive a implementable feedback on improving this platform. - Done (Planting a tree)
 - First response for any of the above challenges.
 - Receive a suggestion for a challenge. 
-- Receive a implementable feedback on improving this platform.
 - First solution, that gets featured here. 
 
 You can help me plant more trees and make this world a better place. Lets get this party going.
+
+---
+**Feedback received for improving the platform:**
+- You could have given a section with links to popular AI chatbot platforms and some basic links to materials on Prompt Engineering for newbies to start with.
+- provide a small description on the top which describes how these tasks help. For example: With PLAI, improve your prompt engineering skills etc. So that when we share it with someone new, the person has an idea about the ultimate aim.
+- Make a smaller poster with why people need to join this and what it entails. Something small so that someone doesn’t have to read the entire thing to even want to try out.
+- Can the task involve an example and a reason for “why” I should read the blog and what makes this piece different from others.
+- Is there a way to gamify this? A visual completion rate for every 10 tasks I complete?
+
+**Realizations:**
+- Show, don't tell. Showcase good work to inspire others. I will start building and showcasing the solutions to motivate others. ("If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.")
