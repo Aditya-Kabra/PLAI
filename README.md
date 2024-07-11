@@ -1,7 +1,7 @@
 # PLAI - Play and Learn AI
 
 **Task for today (10-July-2024):**
-- Read one of the [Ethan Mollick's Blog on Prompting](https://www.oneusefulthing.org/) and discover one new method to prompt better.
+- Ask AI to teach you any topic of your choice. Does it perform better than reading a book? wikipedia article? talking to an expert or a teacher in the domain? Can you try different prompts to make it better? Share your learnings and experiments.
 
 **How does it work?**
 - Every day, a challenge will appear here.
@@ -9,6 +9,7 @@
 - Share it on twitter (X) by tagging @adityakabra. We will display a few solutions here the next day. 
 
 **Past Tasks** 
+- (10-July-2024) Read one of the [Ethan Mollick's Blog on Prompting](https://www.oneusefulthing.org/) and discover one new method to prompt better.
 - (09-July-2024) What's troubling you? Any challenge or problem in work or personal life? Ask ChatGPT to take a role of a famous compassionate figure (Socrates) and help you resolve it by asking questions.
 (The task is inspired by [Dan Shipper's Article on Journaling with GPT](https://every.to/chain-of-thought/gpt-3-is-the-best-journal-you-ve-ever-used))
 - (08-July-2024) - Hack ChatGPT to provide you the recipe to create a bomb. 
