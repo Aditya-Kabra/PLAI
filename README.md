@@ -3,6 +3,9 @@
 **Task for today (10-July-2024):**
 - Ask AI to teach you any topic of your choice. Does it perform better than reading a book? wikipedia article? talking to an expert or a teacher in the domain? Can you try different prompts to make it better? Share your learnings and experiments.
 - A good reference article on using AI for learning: https://www.oneusefulthing.org/p/assigning-ai-seven-ways-of-using
+- Example:
+
+![PLAI Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb761336c-caa0-45e1-b9c5-b3988c103b3b_748x659.png)
 
 **How does it work?**
 - Every day, a challenge will appear here.
