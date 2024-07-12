@@ -7,6 +7,10 @@
 
 ![image](https://github.com/user-attachments/assets/b2b469e2-34c0-486e-8084-3ca0a600651c)
 
+Bonus: If you could go to https://www.bing.com/chat and ask it to generate an image.
+
+![image](https://github.com/user-attachments/assets/beb8dad6-17b8-4e5c-ad29-9bb7eb98d8e4)
+
 
 **How does it work?**
 - Every day, a challenge will appear here.
