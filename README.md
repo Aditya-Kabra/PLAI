@@ -1,25 +1,20 @@
 # PLAI - Play and Learn AI
 
 **Task for today (10-July-2024):**
-- Ask AI to teach you any topic of your choice. Does it perform better than reading a book? wikipedia article? talking to an expert or a teacher in the domain? Can you try different prompts to make it better? Share your learnings and experiments.
-- A good reference article on using AI for learning: https://www.oneusefulthing.org/p/assigning-ai-seven-ways-of-using
-- Example:
+In the meantime, try out the following simple prompt:
+1. Login to https://claude.ai/
+2. Ask the chatbot to create a poem about your profession and your favorite animal
+3. Provide feedback to the chatbot to improve the poem's outcome and then share it with us.
 
-![PLAI Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb761336c-caa0-45e1-b9c5-b3988c103b3b_748x659.png)
+![image](https://github.com/user-attachments/assets/b2b469e2-34c0-486e-8084-3ca0a600651c)
+
 
 **How does it work?**
 - Every day, a challenge will appear here.
 - Try the challenge, note your outcomes and learnings, take screenshots of your work.
 - Share it on twitter (X) by tagging @adityakabra. We will display a few solutions here the next day. 
 
-**Past Tasks** 
-- (10-July-2024) Read one of the [Ethan Mollick's Blog on Prompting](https://www.oneusefulthing.org/) and discover one new method to prompt better.
-- (09-July-2024) What's troubling you? Any challenge or problem in work or personal life? Ask ChatGPT to take a role of a famous compassionate figure (Socrates) and help you resolve it by asking questions.
-(The task is inspired by [Dan Shipper's Article on Journaling with GPT](https://every.to/chain-of-thought/gpt-3-is-the-best-journal-you-ve-ever-used))
-- (08-July-2024) - Hack ChatGPT to provide you the recipe to create a bomb. 
-(Please don't go and create a bomb. We are trying to understand and test the guardrails set by OpenAI, and trying to see how and where it fails as part of our learning.)
-- Create a image of half penguin and half dinosaur using Dall E or Stable Diffusion
-- Identify 5 good stocks to invest in based on news using chatgpt and websearch
+---
 
 **Subscribe to the daily AI challenge** - [Fill this google form and get an AI challenge delivered in the email first thing every morning](https://forms.gle/wnSqKr2Fsqkm3q337)
 
@@ -27,21 +22,3 @@
 
 ---
 
-**So, here is what I am going to do:** I am going to plant a tree in the name of the person who make me accomplish the following tasks. 
-- Receive a implementable feedback on improving this platform. - Done (Planting a tree)
-- First response for any of the above challenges.
-- Receive a suggestion for a challenge. 
-- First solution, that gets featured here. 
-
-You can help me plant more trees and make this world a better place. Lets get this party going.
-
----
-**Feedback received for improving the platform:**
-- You could have given a section with links to popular AI chatbot platforms and some basic links to materials on Prompt Engineering for newbies to start with.
-- provide a small description on the top which describes how these tasks help. For example: With PLAI, improve your prompt engineering skills etc. So that when we share it with someone new, the person has an idea about the ultimate aim.
-- Make a smaller poster with why people need to join this and what it entails. Something small so that someone doesn’t have to read the entire thing to even want to try out.
-- Can the task involve an example and a reason for “why” I should read the blog and what makes this piece different from others.
-- Is there a way to gamify this? A visual completion rate for every 10 tasks I complete?
-
-**Realizations:**
-- Show, don't tell. Showcase good work to inspire others. I will start building and showcasing the solutions to motivate others. ("If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea.")
