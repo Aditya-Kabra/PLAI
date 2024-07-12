@@ -1,7 +1,6 @@
 # PLAI - Play and Learn AI
 
 **Task for today (10-July-2024):**
-In the meantime, try out the following simple prompt:
 1. Login to https://claude.ai/
 2. Ask the chatbot to create a poem about your profession and your favorite animal
 3. Provide feedback to the chatbot to improve the poem's outcome and then share it with us.
